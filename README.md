@@ -1,4 +1,4 @@
-# 🌌 NOX BROWSER
+# 🌌 VANTA Browser
 **The High-Performance Gaming Browser built on .NET 6 & WebView2**            **TELL ME IF ALL NEEDED WORKING DOWNLOADING FILES UPDATE IT IS BEATA 1.0**
   
 ![Nox Browser Banner](banner.png)
@@ -15,7 +15,7 @@ Nox Browser is designed for speed, aesthetics, and gamers who need a lightweight
 
 ## 🛠️ Download
 
-**You don't need to install anything. Just download and run.**
+**You do not need to install anything. Just download and run.**
 
 1.  Go to the [**Releases Page**](https://github.com/SHARVANKUMARSINGH/NoxBrowser/releases)
 2.  Download `NoxBrowser.exe`.
