@@ -1,8 +1,9 @@
 # 🌌 VANTA Browser v1.3 (26/12/2025)
 
-**The High-Performance Gaming Browser built on .NET 6 & WebView2**  
+> ⚡ **5-Second Start Guide:**  
+> Download → Click → Play! 🚀
 
-> 🚀 **Version 1.3 – Fully Working, Beta Stable**
+**The High-Performance Gaming Browser built on .NET 6 & WebView2**  
 
 ![VANTA Browser Banner](ban.png)
 
@@ -30,11 +31,12 @@ VANTA Browser is designed for speed, aesthetics, and gamers who need a lightweig
 
 **Step 3:** Double-click to launch — **no installation needed**.  
 
-
-
-1. Open **Windows PowerShell**.  
-2. Go to the folder where `VANTA-Browser.exe` is:  
+> ✅ Fully working version 1.3 — all features functional.
 
 ---
-*Made with ❤️ by kyugivj and (gemini for picture)*
+
+## ❤️ Credits
+
+Made with ❤️ by **kyugivj** and (gemini for picture)  
+
 
